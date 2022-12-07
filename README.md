@@ -12,7 +12,7 @@
 
 <h3 align="center">How to build:</h3>
 <h5 align="center">1) Join our discord (press the Discord button below)</h7>
-<h5 align="center"> <a href="https://discord.gg/TJNpnMhsfA" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Discord Server" width="25" height="25"/> </a></h7>
+<h5 align="center"> <a href="https://discord.gg/qcbEXYxwCv" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Discord Server" width="25" height="25"/> </a></h7>
 <h5 align="center">2) Open a ticket</h7>
 <h5 align="center">3) Type /build</h7>
 <h5 align="center">4) Write your webhook</h7>
