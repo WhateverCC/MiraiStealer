@@ -1,5 +1,6 @@
 
 <h1 align="center">The MiraiStealer Bot</h1>
+<h1 align="center"> <img align="middle" src="https://cdn.discordapp.com/attachments/928696158610669568/1050013986269167707/image.png" alt=""></h1>
 <h3 align="center">Fully undetected stealer which steals:</h3>
 <h5 align="center">- Cookies🍪</h7>
 <h5 align="center">- Passwords🔑</h7>
