@@ -9,6 +9,7 @@
 <h5 align="center">- Bookmarks📑</h7>
 <h5 align="center">- History📜</h7>
 <h5 align="center">- Local Storage📁</h7>
+<br>
 <h5 align="center">- Discord Tokens🌐</h7>
 
 ...and send everything to your webhook!
