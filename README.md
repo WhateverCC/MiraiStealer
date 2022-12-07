@@ -20,6 +20,13 @@
 <h5 align="center">2) Open a ticket</h7>
 <h5 align="center">3) Type /build webhookUrl</h7>
 <h5 align="center">4) Wait a few seconds and you will receive your compiled stealer</h7>
+
+<h3 align="center">Features:</h3>
+<h5 align="center">- Autostart</h7>
+<h5 align="center">- Discord Token</h7>
+<h5 align="center">- Discord Info - Username, Phone Number, Email, Billing, Nitro Status & Backup Codes</h7>
+<h5 align="center">- Grab crypto wallets - Zcash💰 Armony💸 Bytecoin👛 Jaxx🤑 Exodus💲 Ethereum💎 Electrum💹 Atomic Wallet💵 Guarda💴 Coinomi💷 Binance💹 Coinbase🏦 & many more...</h7>
+<h5 align="center">- Browser (Chrome, Opera, Firefox, OperaGX, Edge, Brave, Yandex) - Passwords, Cookies, Autofill & History (Search for specific keywords such as Paypal, Coinbase etc. in them)</h7>
 </p>
 <br>
 <h3 align="left">Stealer made in:</h3>
