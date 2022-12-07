@@ -4,14 +4,14 @@
 <h3 align="center">Fully undetected stealer which steals:</h3>
 <h5 align="center">- Cookies🍪</h7>
 <h5 align="center">- Passwords🔑</h7>
-<h5 align="center">- Wallets👛</h7>
+<h5 align="center">- Crypto Wallets👛</h7>
 <h5 align="center">- Extensions🗃️</h7>
 <h5 align="center">- Bookmarks📑</h7>
 <h5 align="center">- History📜</h7>
 <h5 align="center">- Local Storage📁</h7>
 <br>
 <h5 align="center">- Discord Tokens🌐</h7>
-
+<br>
 ...and send everything to your webhook!
 
 <h3 align="center">How to build:</h3>
