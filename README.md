@@ -14,13 +14,12 @@
 ...and send everything to your webhook!
 
 <h3 align="center">How to build:</h3>
-<h5 align="left">1) Join our discord (press the Discord button below)</h7>
-<h5 align="left"> <a href="https://discord.gg/qcbEXYxwCv" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Discord Server" width="25" height="25"/> </a></h7>
-<h5 align="left">2) Open a ticket</h7>
-<h5 align="left">3) Type /build</h7>
-<h5 align="left">4) Write your webhook</h7>
-<h5 align="left">5) Wait a few seconds and you will receive your compiled stealer</h7>
+<h5 align="center">1) Join our discord (press the Discord button below)</h7>
+<h5 align="center"> <a href="https://discord.gg/qcbEXYxwCv" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Discord Server" width="25" height="25"/> </a></h7>
+<h5 align="center">2) Open a ticket</h7>
+<h5 align="center">3) Type /build webhookUrl</h7>
+<h5 align="center">4) Wait a few seconds and you will receive your compiled stealer</h7>
 </p>
-
-<h3 align="left">Tool made with:</h3>
+<br>
+<h3 align="left">Stealer made in:</h3>
 <p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> </p>
