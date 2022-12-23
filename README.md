@@ -16,7 +16,7 @@
 
 <h3 align="center">How to build:</h3>
 <h5 align="center">1) Join our discord (press the Discord button below)</h7>
-<h5 align="center"> <a href="https://discord.gg/haYgfm8BzP" target="_blank" rel="noreferrer"> <img src="[https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png](https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png)" alt="Discord Server" width="25" height="25"/> </a></h7>
+<h5 align="center"> <a href="https://discord.gg/haYgfm8BzP" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" alt="Discord Server" width="25" height="25"/> </a></h7>
 <h5 align="center">2) Open a ticket</h7>
 <h5 align="center">3) Type /build webhookUrl</h7>
 <h5 align="center">4) Wait a few seconds and you will receive your compiled stealer</h7>
@@ -30,4 +30,4 @@
 </p>
 <br>
 <h3 align="left">Stealer made in:</h3>
-<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/1200px-Javascript-shield.svg.png" alt="go" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="go" width="40" height="40"/> </a> </p>
