@@ -1,6 +1,6 @@
 
 <h1 align="center">Mirai Stealer</h1>
-<h1 align="center"> <img align="middle" src="https://cdn.discordapp.com/attachments/1050338490556092456/1055877234730205255/image.png" alt=""></h1>
+<h1 align="center"> <img align="middle" src="https://cdn.discordapp.com/attachments/1054436647602753626/1056009440068894810/image.jpg" alt=""></h1>
 <h3 align="center">Fully undetected stealer which steals:</h3>
 <h5 align="center">- Cookies🍪</h7>
 <h5 align="center">- Passwords🔑</h7>
